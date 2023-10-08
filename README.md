@@ -38,7 +38,7 @@
   - Interactive Animation and Loading Effects
 
   
-- **Fiverr Gig**: [I will build astro js typescript seo website using tailwind CSS]([[Fiverr Gig Link](https://www.fiverr.com/s/EVrZLd))
+- **Fiverr Gig**: [I will build astro js typescript seo website using tailwind CSS](https://www.fiverr.com/s/EVrZLd))
 Professional Mobile-First Landing Page Design with Tailwind CSS
 
 Description:
@@ -70,13 +70,13 @@ Let's bring your ideas to life and create a landing page that not only looks fan
     <img src="https://img.shields.io/badge/PageSpeed-100%25-brightgreen?style=for-the-badge" alt="Google PageSpeed Insights">
   </a>
   <a href="https://example.com">
-    <img src="https://img.shields.io/badge/SEO-99%25-blue?style=for-the-badge" alt="SEO">
+    <img src="https://img.shields.io/badge/SEO-100%25-blue?style=for-the-badge" alt="SEO">
   </a>
   <a href="https://example.com">
     <img src="https://img.shields.io/badge/Best%20Practices-100%25-green?style=for-the-badge" alt="Best Practices">
   </a>
   <a href="https://example.com">
-    <img src="https://img.shields.io/badge/Performance-98%25-orange?style=for-the-badge" alt="Performance">
+    <img src="https://img.shields.io/badge/Performance-100%25-orange?style=for-the-badge" alt="Performance">
   </a>
 </p>
 
