@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-profile-image-url.com" width="150" height="150">
-</p>
-
 <h1 align="center">Front-End Developer & UI/UX Designer 👨‍💻🎨</h1>
 
 <p align="center">
@@ -14,9 +10,13 @@
   <a href="https://www.behance.net/yourbehanceprofile">
     <img src="https://img.shields.io/badge/Behance-%23056FF4.svg?style=for-the-badge" alt="Behance">
   </a>
+  <a href="https://www.upwork.com/freelancers/~your-upwork-username">
+    <img src="https://img.shields.io/badge/Upwork-%2301AABD.svg?style=for-the-badge" alt="Upwork">
+  </a>
+  <a href="https://www.fiverr.com/your-fiverr-username">
+    <img src="https://img.shields.io/badge/Fiverr-%23FB687D.svg?style=for-the-badge" alt="Fiverr">
+  </a>
 </p>
-
-<p align="center">Passionate about creating amazing web experiences and stunning designs.</p>
 
 <h2 align="center">About Me 🚀</h2>
 
@@ -24,19 +24,26 @@
 
 <h2 align="center">Collaboration & Remote Work ✨</h2>
 
-<p align="center">I thrive on flexible and remote work arrangements, adapting quickly to diverse project requirements. You can find me on <a href="https://www.upwork.com/freelancers/~your-upwork-username">Upwork</a> and <a href="https://www.fiverr.com/your-fiverr-username">Fiverr</a>, where I've successfully collaborated on various web development and design projects.</p>
+<p align="center">I thrive on flexible and remote work arrangements, adapting quickly to diverse project requirements. You can find me on Upwork and Fiverr, where I've successfully collaborated on various web development and design projects.</p>
 
-<h2 align="center">Portfolio Highlights 🌟</h2>
+<h2 align="center">Gigs on Upwork & Fiverr 💼</h2>
 
-<p align="center">Check out some of my notable projects below:</p>
+- **Upwork Gig**: [Upwork Gig Title](Upwork Gig Link)
+  - Description: Brief description of your Upwork gig.
+  
+- **Fiverr Gig**: [Fiverr Gig Title](Fiverr Gig Link)
+  - Description: Brief description of your Fiverr gig.
 
-<!-- Your project links and descriptions here -->
+<h2 align="center">Achievements 🏆</h2>
 
-<h2 align="center">Let's Create Together! 🌈</h2>
+<p align="center">I'm proud to achieve a Google PageSpeed Insights score of 100% in the "All Pass" and "Expert" categories, ensuring top-notch web performance.</p>
 
-<p align="center">I'm open to new opportunities and collaborations. Feel free to reach out via email or connect with me on LinkedIn and Behance. Let's create something amazing together! 🚀</p>
+<p align="center">
+  <a href="https://developers.google.com/speed/pagespeed/insights/?url=your-website-url">
+    <img src="https://img.shields.io/badge/PageSpeed-100%25-brightgreen?style=for-the-badge" alt="Google PageSpeed Insights">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yanniro2&show_icons=true&count_private=true" alt="GitHub Stats">
 </p>
-
