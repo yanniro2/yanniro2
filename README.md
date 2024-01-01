@@ -10,12 +10,6 @@
   <a href="https://www.behance.net/yanniro">
     <img src="https://img.shields.io/badge/Behance-%23056FF4.svg?style=for-the-badge" alt="Behance">
   </a>
-  <a href="https://www.upwork.com/freelancers/~0141eb9496d015859b">
-    <img src="https://img.shields.io/badge/Upwork-%2301AABD.svg?style=for-the-badge" alt="Upwork">
-  </a>
-  <a href="https://www.fiverr.com/n12oyan">
-    <img src="https://img.shields.io/badge/Fiverr-%23FB687D.svg?style=for-the-badge" alt="Fiverr">
-  </a>
 </p>
 
 <h2 align="center">About Me 🚀</h2>
@@ -25,21 +19,6 @@
 <h2 align="center">Collaboration & Remote Work ✨</h2>
 
 <p align="center">I thrive on flexible and remote work arrangements, adapting quickly to diverse project requirements. You can find me on Upwork and Fiverr, where I've successfully collaborated on various web development and design projects.</p>
-
-<h2 align="center">Gigs on Upwork & Fiverr 💼</h2>
-
-- **Upwork Gig**: [You will get Responsive HTML / React JS Website from PSD / XD / Figma / Zeplin / Sketch](https://www.upwork.com/services/product/development-it-responsive-html-react-js-website-from-psd-xd-figma-zeplin-sketch-1616285697008177152?ref=project_share)
-  - Convert png/PSD to real website and structure. or if you need I have done in design the system and made mobile, and tablet as well to new user-friendly design.
-  - Develop all user-end features with enhanced user experience for everyone.
-  - Optimizing designs for mobile and Tablets Devices as well.
-  - Make Mobile-friendly designs and graphics for pixel-perfect design.
-  - Speed optimization for web pages for the best user experience using flexible page loading and minimizing and the highest resolution shown as dynamically.
-  - Quick Faster Delivery
-  - Interactive Animation and Loading Effects
-
-  
-- **Fiverr Gig**: [I will build astro js typescript seo website using tailwind CSS](https://www.fiverr.com/s/EVrZLd))
-Professional Mobile-First Landing Page Design with Tailwind CSS
 
 Description:
 
