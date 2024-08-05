@@ -1,4 +1,4 @@
-<h1 align="center">Front-End Developer & UI/UX Designer 👨‍💻🎨</h1>
+<h1 align="center">Full Stack Next JS & Front-End Developer |  UI/UX Designer 👨‍💻🎨</h1>
 
 <p align="center">
   <a href="mailto:contact.niroyan@gmail.com">
